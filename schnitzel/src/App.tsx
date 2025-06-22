@@ -1,10 +1,10 @@
 import React from 'react';
-import './App.css';
+import Schnitzel from "./features/Schnitzel";
 
 function App() {
     return (
         <div>
-
+            <Schnitzel></Schnitzel>
         </div>
     );
 }
